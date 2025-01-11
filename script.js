@@ -1,4 +1,4 @@
 document.getElementById('change-text-btn').addEventListener('click', function() {
-  alert("Hello! You clicked the button!");
+  alert("Oh no! you successfully destroyed me");
 });
 
